@@ -1,9 +1,10 @@
-# Tweetbot Mute Keywords #
+# Twitter Mute Keywords #
 
-A hopefully-expanding list of regexes which will make Twitter more pleasant.
+Regexes to make your Twitter experience more bearable.
 
-Feel free to send a pull request.
+These regexes should work in any Twitter client which supports regex keyword muting (Tweetbot, YoruFukurou &c.)
 
-(Regexes will presumably work in other clients)
+Contributions are welcome via pull request / patch.
+
 
 [@urschrei](https://twitter.com/urschrei "Steph on Twitter")

@@ -2,3 +2,5 @@
 (?i:s)keuo\w*\b
 # No more mentions of the biog. Please.
 (?i:d)\.?\s?(?i:t)\.?\s(?i:m)ax
+# We do not care about your daily paper
+(?i:(the)? daily (\w|\W)+ is out)

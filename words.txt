@@ -1,0 +1,4 @@
+# This is all Adam Greenfield's fault.
+(?i:s)keuo\w*\b
+# No more mentions of the biog. Please.
+(?i:d)\.?\s?(?i:t)\.?\s(?i:m)ax

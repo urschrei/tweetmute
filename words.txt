@@ -6,3 +6,5 @@
 (?i:(the)? daily (\w|\W)+ is out)
 # I don't give a fuck about MOOCs. Sorry.
 (?i:mooc(\w)*\b)
+# Zombies. Nope.
+(?i:zombie(s)?)

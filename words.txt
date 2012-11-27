@@ -8,3 +8,4 @@
 (?i:mooc(\w)*\b)
 # Zombies. Nope.
 (?i:zombie(s)?)
+(?i:d)isrupt.*\b
